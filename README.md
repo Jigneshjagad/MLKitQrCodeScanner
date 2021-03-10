@@ -6,7 +6,7 @@
 Hello, there.
 This is Qr Code Scanner app.
 
-Use below library:-
+Use below library:-</br>
 implementation 'androidx.camera:camera-camera2:1.1.0-alpha02' </br>
 implementation 'androidx.camera:camera-lifecycle:1.1.0-alpha02' </br>
 implementation 'androidx.camera:camera-view:1.0.0-alpha22' </br>
