@@ -1,9 +1,5 @@
 # MLKit Qr Code Scanner
 
-<!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
-<!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/Jigneshjagad/MLKitQrCodeScanner/workflows/Check/badge.svg)
-
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
@@ -11,9 +7,9 @@ Hello, there.
 This is Qr Code Scanner app.
 
 Use below library:-
-implementation 'androidx.camera:camera-camera2:1.1.0-alpha02'
-implementation 'androidx.camera:camera-lifecycle:1.1.0-alpha02'
-implementation 'androidx.camera:camera-view:1.0.0-alpha22'
+implementation 'androidx.camera:camera-camera2:1.1.0-alpha02' </br>
+implementation 'androidx.camera:camera-lifecycle:1.1.0-alpha02' </br>
+implementation 'androidx.camera:camera-view:1.0.0-alpha22' </br>
 implementation 'com.google.mlkit:barcode-scanning:16.1.1'
 
 
