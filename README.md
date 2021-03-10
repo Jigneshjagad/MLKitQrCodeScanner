@@ -2,7 +2,7 @@
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-<!--- ![Workflow result](https://github.com/Jigneshjagad/PuppyAdoption/workflows/Check/badge.svg)-->
+![Workflow result](https://github.com/Jigneshjagad/MLKitQrCodeScanner/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
@@ -15,7 +15,6 @@ implementation 'androidx.camera:camera-camera2:1.1.0-alpha02'
 implementation 'androidx.camera:camera-lifecycle:1.1.0-alpha02'
 implementation 'androidx.camera:camera-view:1.0.0-alpha22'
 implementation 'com.google.mlkit:barcode-scanning:16.1.1'
-
 
 
 ## :camera_flash: Screenshots
